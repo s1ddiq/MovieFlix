@@ -24,6 +24,10 @@ Once the dependencies are installed, you can start the app using Expo. Run the f
 npx expo start
 ```
 
+- Sign up for an account
+- Discover Movies
+- Save Movies
+  
 ### Learn more
 
 - [Expo documentation](https://docs.expo.dev/): Learn the fundamentals of building apps with Expo and React Native.
